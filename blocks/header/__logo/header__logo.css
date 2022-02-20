@@ -1,0 +1,14 @@
+.header__logo {
+  color: white;
+  width: 142px;
+  height: 42px;
+  object-fit: cover;
+  /* display: block; */
+}
+
+@media screen and (min-width: 768px) {
+  .header__logo {
+    width: 176px;
+    height: 52px;
+  }
+}
