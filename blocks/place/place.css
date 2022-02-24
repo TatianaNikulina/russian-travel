@@ -1,9 +1,9 @@
 .place {
-  margin: 0;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  /* max-width: 984px; */
+  max-width: 100%;
   padding-bottom: 50px;
 }
 
@@ -12,17 +12,19 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 0 24px 72px;
+    max-width: calc(100% - 48px);
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place {
     padding: 0 48px 80px;
+    max-width: calc(100% - 96px);
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place {
-    max-width: 984px;
+    max-width: calc(92.5% - 200px);
   }
 }
