@@ -1,4 +1,4 @@
-.root {
+.page__container {
   margin: 0 auto;
   font-family: "Inter", "Arial", sans-serif;
   -moz-osx-font-smoothing: grayscale;
@@ -10,5 +10,6 @@
   background-color: #2a2c2f;
   color: white;
   min-width: 320px;
+  max-width: 1280px;
   width: 100%;
 }
