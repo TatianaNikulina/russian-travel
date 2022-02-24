@@ -11,7 +11,6 @@
   margin: 0 auto;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
-  margin: 0;
 }
 
 .cover__overlay::before {
@@ -29,6 +28,12 @@
 .cover__overlay:hover::before {
   opacity: 0.8;
   cursor: pointer;
+}
+
+@media screen and (min-width: 540px) {
+  .cover__overlay {
+    min-height: 340px;
+  }
 }
 
 @media screen and (min-width: 768px) {
