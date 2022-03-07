@@ -1,41 +1,41 @@
-## Название:
+## Project name:
 
-Проектная работа "Russian Travel"
-
----
-
-## Описание:
-
-Работа с макетом, адаптивная вёрстка, интерактивные элементы
+Project "Russian Travel"
 
 ---
 
-## Использованные технологии:
+## Description:
 
-- работа с FIGMA,
-- HTML,
-- CSS,
-- позиционирование элементов,
-- методология БЭМ,
-- файловая структура Nested,
-- flexbox,
+Work with the layout, adaptive responsive layout, interactive elements
+
+---
+
+## Technologies:
+
+- work with FIGMA,
+- HTML5,
+- CSS3,
+- elements positioning,
+- BEM methodology,
+- Nested file structure,
+- flexbox layout,
 - grid layout,
-- система контроля версий GitHub
+- version control system GitHub
 
 ---
 
-## Автор:
+## Author:
 
-Никулина Татьяна
+Nikulina Tatiana
 
 ---
 
-## Номер спринта:
+## Sprint number:
 
 2
 
 ---
 
-## Проект на GitPages:
+## Project on GitPages:
 
-[Ссылка на проект](https://tatiananikulina.github.io/russian-travel/index.html)
+[Project link](https://tatiananikulina.github.io/russian-travel/index.html)
